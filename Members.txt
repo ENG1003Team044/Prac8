@@ -1,5 +1,15 @@
 LIST OF MEMBERS FOR TEAM 044
 MEMBER 1 HARRY AN
 MEMBER 2 RYAN NETTLETON
+
+Brief introduction
+
+Yo I'm Ryan. I'm pretty sick.
+ 
+Role in project: Passenger
+ 
+Preferred branch of engineering: Civil
+
 MEMBER 3 FAHEEM SANI
 MEMBER 4 PATRICK JOSE CLIFTON
+ 
