@@ -3,3 +3,5 @@ MEMBER 1 HARRY AN
 MEMBER 2 RYAN NETTLETON
 MEMBER 3 FAHEEM SANI
 MEMBER 4 PATRICK JOSE CLIFTON
+Role in project: (Team Mediator)
+Preferred branch of engineering: (Civil Engineering)
