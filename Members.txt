@@ -3,3 +3,13 @@ MEMBER 1 HARRY AN
 MEMBER 2 RYAN NETTLETON
 MEMBER 3 FAHEEM SANI
 MEMBER 4 PATRICK JOSE CLIFTON
+
+RYAN NETTLETON
+ 
+Brief introduction
+
+Yo I'm Ryan. I'm pretty sick.
+ 
+Role in project: Passenger
+ 
+Preferred branch of engineering: Civil
